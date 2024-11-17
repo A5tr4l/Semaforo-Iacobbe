@@ -1,0 +1,75 @@
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-weight: bold;
+}
+
+.rect{
+    display: flex;
+    text-align: center;
+    border-style: Solid;
+    border-radius: 50px;
+    border-color: black;
+    background-color: black;
+}
+
+#circle1{
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    border-style: Solid;
+    border-color: black;
+}
+
+#circle2{
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    border-style: Solid;
+    border-color: black;
+}
+
+#circle3{
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    border-style: Solid;
+    border-color: black;
+}
+
+#button{
+    font-family: "Kanit", sans-serif;
+    margin: 50px;
+    background-color: white;
+    color: black;
+    padding: 15px 60px ;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.def{
+    background-color: gray;
+}
+
+.def1{
+    background-color: red;
+}
+
+.def2{
+    background-color: green;
+}
+
+.back{
+    background-color: #b1e8ae;
+}
+
+#message{
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: bold;
+}
